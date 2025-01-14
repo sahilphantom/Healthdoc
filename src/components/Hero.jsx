@@ -52,7 +52,7 @@ const Hero = () => {
       <img
         src={img1} // Use the image path directly
         alt="HealthDoc App Interface"
-        className="relative z-10"
+        className="relative z-10 rounded-[45px]"
         style={{ height: '550px', width: '450px' }} // Resizing via inline styles
       />
    
